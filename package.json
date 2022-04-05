@@ -1,0 +1,11 @@
+{
+  "name": "housing-natural-disasters",
+  "version": "1.0.0",
+  "description": "Server for housing natural disasters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ImaDoofus",
+  "license": "ISC"
+}
